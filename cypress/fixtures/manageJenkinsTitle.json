@@ -1,0 +1,12 @@
+{
+  "mainHeaderPage": "Manage Jenkins",
+  "manageJenkinsPageEndpoint": "manage",
+  "subHeadersMainJenkinsPage": [
+    "System Configuration",
+    "Security",
+    "Status Information",
+    "Troubleshooting",
+    "Tools and Actions"
+  ],
+  "subHeadersMainJenkinsPageLength": 5
+}

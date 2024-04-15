@@ -1,0 +1,13 @@
+{
+    "fieldName": "Enter an item name",
+    "expectedProjectLabels": [
+        "Freestyle project",
+        "Pipeline",
+        "Multi-configuration project",
+        "Folder",
+        "Multibranch Pipeline",
+        "Organization Folder"
+    ],
+    "itemNameFieldValue": "",
+    "url": "view/all/newJob"
+}
